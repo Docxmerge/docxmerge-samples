@@ -1,0 +1,6 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "docxmerge/docxmerge-php": "dev-master"
+  }
+}

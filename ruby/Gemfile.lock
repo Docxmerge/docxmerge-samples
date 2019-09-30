@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    docxmerge (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  docxmerge
+
+BUNDLED WITH
+   1.16.1

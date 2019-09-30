@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f114c819a81b563b5794e9f2ec003946",
+    "packages": [
+        {
+            "name": "docxmerge/docxmerge-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Docxmerge/docxmerge-php.git",
+                "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/293c23ca4bcd5eec847aded020d049878ed8b5ee",
+                "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": "^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Docxmerge\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Viejo",
+                    "email": "davidviejopomata@gmail.com"
+                }
+            ],
+            "description": "A skeleton for writing php packages",
+            "time": "2019-09-30T17:13:38+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "docxmerge/docxmerge-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "docxmerge/docxmerge-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Docxmerge/docxmerge-php.git",
+            "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/293c23ca4bcd5eec847aded020d049878ed8b5ee",
+            "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "php": "^7.0"
+        },
+        "time": "2019-09-30T17:13:38+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Docxmerge\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "David Viejo",
+                "email": "davidviejopomata@gmail.com"
+            }
+        ],
+        "description": "A skeleton for writing php packages"
+    }
+]
