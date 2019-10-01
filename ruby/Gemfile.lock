@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    docxmerge (1.0.0)
+    docxmerge (1.2.0)
 
 PLATFORMS
   ruby

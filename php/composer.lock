@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f114c819a81b563b5794e9f2ec003946",
+    "content-hash": "6e0c895a3b860b38a94996133126d792",
     "packages": [
         {
             "name": "docxmerge/docxmerge-php",
-            "version": "dev-master",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Docxmerge/docxmerge-php.git",
-                "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee"
+                "reference": "e41aede4cd2dfbb8c214ef29e258e7c593038480"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/293c23ca4bcd5eec847aded020d049878ed8b5ee",
-                "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee",
+                "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/e41aede4cd2dfbb8c214ef29e258e7c593038480",
+                "reference": "e41aede4cd2dfbb8c214ef29e258e7c593038480",
                 "shasum": ""
             },
             "require": {
@@ -42,15 +42,13 @@
                 }
             ],
             "description": "A skeleton for writing php packages",
-            "time": "2019-09-30T17:13:38+00:00"
+            "time": "2019-10-01T12:49:50+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "docxmerge/docxmerge-php": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

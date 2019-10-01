@@ -1,17 +1,17 @@
 [
     {
         "name": "docxmerge/docxmerge-php",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
+        "version": "v1.3.0",
+        "version_normalized": "1.3.0.0",
         "source": {
             "type": "git",
             "url": "https://github.com/Docxmerge/docxmerge-php.git",
-            "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee"
+            "reference": "e41aede4cd2dfbb8c214ef29e258e7c593038480"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/293c23ca4bcd5eec847aded020d049878ed8b5ee",
-            "reference": "293c23ca4bcd5eec847aded020d049878ed8b5ee",
+            "url": "https://api.github.com/repos/Docxmerge/docxmerge-php/zipball/e41aede4cd2dfbb8c214ef29e258e7c593038480",
+            "reference": "e41aede4cd2dfbb8c214ef29e258e7c593038480",
             "shasum": ""
         },
         "require": {
@@ -19,9 +19,9 @@
             "ext-json": "*",
             "php": "^7.0"
         },
-        "time": "2019-09-30T17:13:38+00:00",
+        "time": "2019-10-01T12:49:50+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "Docxmerge\\": "src"

@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "docxmerge": "^1.0.9"
+    "docxmerge": "^1.3.0"
   }
 }
